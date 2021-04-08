@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "name": "Warsaw warehouse",
+      "id": "1"
+    },
+    {
+      "country": "Germany",
+      "city": "Belin",
+      "name": "Berlin Warehouse",
+      "id": "2"
+    },
+    {
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "name": "Amsterdam Warehouse",
+      "id": "3"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "name": "Paris Warehouse",
+      "id": "4"
+    },
+    {
+      "country": "USA",
+      "city": "New York",
+      "name": "New York Warehouse",
+      "id": "5"
+    }
+  ]
+}

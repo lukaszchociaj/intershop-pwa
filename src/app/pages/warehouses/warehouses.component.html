@@ -1,0 +1,4 @@
+ <div *ngIf="warehouses$ | async">
+  <h2>OUR WAREHOUSES</h2>
+  <li *ngFor="let warehouse of warehouses$ | async" >{{warehouse.country}}, {{warehouse.city}} - {{warehouse.name}}</li>
+</div>
